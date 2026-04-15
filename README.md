@@ -1,17 +1,16 @@
-▶️ STEP-BY-STEP (from your location)
+▶️ Download it as zip
 
-1. Open Termux and allow storage
+1. Extract the zip file in Download folder
 
-termux-setup-storage
-
-👉 Tap Allow
+location will:
+/sdcard/Download/DDOSx-main/DDOSx-main
 
 
 ---
 
-2. Go to your folder
+2. Go to your folder through terminal
 
-`cd /sdcard/Download/DDOSx`
+`cd /sdcard/Download/DDOSx-main/DDOSx-main`
 
 Check files:
 
