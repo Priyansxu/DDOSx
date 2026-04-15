@@ -3,7 +3,7 @@
 1. Extract the zip file in Download folder
 
 location will:
-/sdcard/Download/DDOSx-main/DDOSx-main
+/Download/DDOSx-main/DDOSx-main
 
 
 ---
